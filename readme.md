@@ -76,7 +76,7 @@ pip install streamlit scikit-learn matplotlib pandas plotly
 Inicie o Streamlit:
 
 ```bash
-streamlit dashboardpi.py
+streamlit run dashboardpi.py
 ```
 
 Abra o navegador e acesse:
